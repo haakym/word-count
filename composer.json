@@ -1,5 +1,5 @@
 {
-    "name": "haakym/WordCount",
+    "name": "haakym/word-count",
     "description": "Count the number of words in your doc or pdf file",
     "license": "MIT",
     "keywords": ["count", "word", "pdf", "doc"],
